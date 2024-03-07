@@ -1,3 +1,5 @@
+package Projetos.Java.Developer.com;
+
 import java.util.Locale;
 import java.util.Scanner;
 
